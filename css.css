@@ -1,0 +1,9 @@
+#container   {
+      background-color: lightblue ;
+  }
+
+#container1 {
+    background-color: lightblue ;
+    border-left-style:Solid;
+    border-style: groove;
+}
